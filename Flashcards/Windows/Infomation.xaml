@@ -1,0 +1,21 @@
+﻿<Window x:Class="Flashcards.Windows.Infomation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flashcards.Windows"
+        mc:Ignorable="d" WindowStyle="None" AllowsTransparency="True"
+        ResizeMode="NoResize" Background="Transparent" BorderThickness="0" WindowStartupLocation="CenterScreen"
+        Title="Infomation" Height="428" Width="339.5">
+    <Grid MouseDown="Grid_MouseDown" Background="{StaticResource Background}" Margin="10"
+          Effect="{StaticResource Shadow}">
+        <StackPanel Background="{StaticResource BackgroundTexture}">
+            <TextBlock Text="About this program" FontSize="25" Foreground="{DynamicResource ScrollBar.Pressed.Background}"/>
+            <Separator/>
+            <StackPanel Margin="50,0" Orientation="Vertical">
+                <Label Style="{StaticResource normal_Fade}" Content="Flashcards v2.0.0"/>
+                <Label Style="{StaticResource normal_Fade}" Content="Author: Văn Viết Hiếu Anh"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

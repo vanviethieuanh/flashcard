@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Flashcards.App" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAECkEIMQACIbgQIALIN1EEAFDEDBkAlAA0YBECwBAM=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Flashcards.Class.Caculator" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAA=</HashCode>
+      <FileName>Class\Caculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Calendar" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Class\Calendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.DictionaryInfo" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAIAAAAAAABAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\DictionaryInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Encode" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Encode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.FileManagement" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Class\FileManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.HTML" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\HTML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Internet" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Internet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Link" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Class\Link.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.ListDictionary" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAABAABAIIAAAAAAAAACACAAEAAIAEAAAAhgA=</HashCode>
+      <FileName>Class\ListDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.MousePosition" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\MousePosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.SearchImage" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\SearchImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Speak" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Class\Speak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.StringProcessing" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Class\StringProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Translation" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAAAgAAAAIAAAAAABAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Translation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Translator" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAABgAAACAAAAAAAAAAEAAAACAEAEAAAAAAA=</HashCode>
+      <FileName>Class\Translator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Word" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAIAgYgAAIAAAAAEBAAAAAAAAAEAAAABAAAAAAAQAAA=</HashCode>
+      <FileName>Class\Word.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.CurrentWord" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAhAAAA=</HashCode>
+      <FileName>Class\Word.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.WordData">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAIAAAACAAAAAAAAAAABAAAAAUAAAABAAAA=</HashCode>
+      <FileName>Class\WordData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.WordOfDictionary" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAAAAAAAAAAAAAAEAIAABACAAAAAAA=</HashCode>
+      <FileName>Class\WordOfDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Class.Extension.ListViewExtension" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Class\Extension\ListViewExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Properties.Resources" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flashcards.Windows.DictionarySelector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAAAICAAAABAAAARAAQAAAAAAAJAAAAAAAAA=</HashCode>
+      <FileName>Windows\DictionarySelector.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Flashcards.Windows.EnterText" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABEAgAAAAABEACCACAAEQAAAAAEAAAAQABAAAAAAA=</HashCode>
+      <FileName>Windows\EnterText.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Flashcards.Windows.Infomation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Windows\Infomation.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Flashcards.Windows.Prompter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAAAAEAAAAAABGAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Windows\Prompter.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

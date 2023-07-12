@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Flashcards.UC.UCincorrect"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Flashcards.UC"
+             mc:Ignorable="d" Margin="0,5">
+    <Border BorderBrush="{StaticResource ScrollBar.MouseOver.Background}" BorderThickness="3,0,0,0">
+        <StackPanel>
+            <Label Style="{StaticResource normal_Fade}">
+                <AccessText Name="txt_Ques"/>
+            </Label>
+            <Label Style="{StaticResource normal_Black}" Foreground="{DynamicResource Main_color.dark}">
+                <AccessText Name="txt_correctAns"/>
+            </Label>
+            <Label Style="{StaticResource normal_Fade}">
+                <AccessText Text="but you choose:"/>
+            </Label>
+            <Label Style="{StaticResource normal_Black}">
+                <AccessText Name="txt_inCAns"/>
+            </Label>
+        </StackPanel>
+        
+    </Border>
+</UserControl>
