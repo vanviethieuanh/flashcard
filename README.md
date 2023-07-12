@@ -1,9 +1,12 @@
 # Flashcards WPF Solution
 
+![Deprecated](https://img.shields.io/badge/status-deprecated-red.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-v4.5.2-blue.svg)](https://dotnet.microsoft.com/download/dotnet-framework/net452)
 [![NuGet](https://img.shields.io/nuget/v/WindowsAPICodePack-Core.svg)](https://www.nuget.org/packages/WindowsAPICodePack-Core)
 [![NuGet](https://img.shields.io/nuget/v/WindowsAPICodePack-Shell.svg)](https://www.nuget.org/packages/WindowsAPICodePack-Shell)
+
+**This project is no more maintenance, I just put this to save the work.**
 
 This is a WPF (Windows Presentation Foundation) solution for a flashcard application. It allows users to create and study flashcards on their computer. The solution is developed using Microsoft Visual Studio.
 
